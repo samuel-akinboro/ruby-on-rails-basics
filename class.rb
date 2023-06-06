@@ -5,4 +5,4 @@ class School
 end
 
 monument = School.new
-monument.print_info()
+monument.print_info
